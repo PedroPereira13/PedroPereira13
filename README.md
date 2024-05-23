@@ -13,7 +13,7 @@
     <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div><br/>
 
-Cursando desenvolvimento de sitemas na ETEC Polivalente de americada.<br/>
+Cursando desenvolvimento de sistemas na ETEC Polivalente de americana.<br/>
 Apaixonado por jogos, e progamação.
 
 ## Email:
